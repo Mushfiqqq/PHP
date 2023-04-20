@@ -7,8 +7,10 @@
   <body>
     <?php
 
-      echo("Mushfiqur Rahman");
-      
+      echo "<h1>Mushfiqur Rahman</h1>";
+      echo "<hr>";
+      echo "<p>The web developer</p>";
+
      ?>
   </body>
 </html>
