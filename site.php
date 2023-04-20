@@ -7,9 +7,15 @@
   <body>
     <?php
 
-      echo "<h1>Mushfiqur Rahman</h1>";
+      $name = "Mushfiqur Rahman";
+      $ID = 2121535642;
+      $CGPA = 3.46;
+
+      echo "<h2>Student Name: $name</h2>";
       echo "<hr>";
-      echo "<p>The web developer</p>";
+      echo "<br>Student ID: $ID</br>";
+      echo "<hr>";
+      echo "<br>Student's CGPA: $CGPA</br>";
 
      ?>
   </body>
